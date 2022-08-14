@@ -15,7 +15,7 @@
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://devfolio.co/@aradhanaa">
-  <img align="left" alt="aradhana's Devfolio" width="22px" src="https://iconscout.com/icon/devfolio-1649779" />
+  <img align="left" alt="aradhana's Devfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
 </a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
