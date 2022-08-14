@@ -21,7 +21,7 @@
 #
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun. (P.S.- I'm quite active on twitter)</i>
+  <i>Let's connect and chat! Open to anything under the sun or beyond consciousness. (P.S.- I'm quite active on twitter)</i>
 
   <p align="center">
     <a href="https://twitter.com/aradhanaaaaaa" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>     
