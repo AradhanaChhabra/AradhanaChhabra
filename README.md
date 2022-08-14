@@ -1,4 +1,4 @@
-# Hey, there! 👋🏼
+## Hey, there! 👋🏼
 
 ----------------------
 
@@ -20,11 +20,13 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-### I am Aradhana 👩🏽‍💻
-- An aspiring software developer
-- Currently working in frontend team of [RevenueHero](https://revenuehero.io/)
-- Proficient in technologies including ReactJS, NextJs, Tailwind, TypeScript, Redux, and others
-- Eager to learn and evolve 🌱
+# I am Aradhana 👩🏽‍💻
+
+- an aspiring software developer
+- currently working in frontend team of [RevenueHero](https://revenuehero.io/)
+- proficient in technologies including ReactJS, NextJs, Tailwind, TypeScript, Redux, and others
+- a little obsessed to make each piece of code pixel-perfect
+- eager to learn and evolve 🌱
 
 
 [![AradhanaChhabra's github stats](https://github-readme-stats.vercel.app/api?username=AradhanaChhabra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AradhanaChhabra/github-readme-stats)
