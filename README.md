@@ -12,13 +12,13 @@
   <img align="left" alt="aradhana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/aradhanaaaaa">
-  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="aradhana's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://devfolio.co/@aradhanaa">
   <img align="left" alt="aradhana's Devfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
 
 # I am Aradhana 👩🏽‍💻
@@ -28,7 +28,8 @@
 - more than just an aspiring software developer ♥︎
 - currently working in frontend team of [RevenueHero](https://revenuehero.io/)
 - proficient in technologies including ReactJS, NextJs, Tailwind, TypeScript, Redux, and others
-- a little obsessed to make each piece of code pixel-perfect ✨
+- a little obsessed with making each piece of code pixel-perfect ✨
+- looking forward to contribute to Open Source and be a part of the community 
 - eager to learn and evolve 🌱
 
 
