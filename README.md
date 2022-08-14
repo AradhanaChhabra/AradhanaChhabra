@@ -20,13 +20,17 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
+
 # I am Aradhana 👩🏽‍💻
+
+
 
 - an aspiring software developer
 - currently working in frontend team of [RevenueHero](https://revenuehero.io/)
 - proficient in technologies including ReactJS, NextJs, Tailwind, TypeScript, Redux, and others
 - a little obsessed to make each piece of code pixel-perfect 🎬
 - eager to learn and evolve 🌱
+
 
 
 ----------------------
