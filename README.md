@@ -25,7 +25,7 @@
 
 
 
-- an aspiring software developer
+- more than just an aspiring software developer
 - currently working in frontend team of [RevenueHero](https://revenuehero.io/)
 - proficient in technologies including ReactJS, NextJs, Tailwind, TypeScript, Redux, and others
 - a little obsessed to make each piece of code pixel-perfect 🎬
