@@ -1,6 +1,6 @@
 ## Hey, there! 👋🏼
 
-----------------------
+
 
 <a href="https://twitter.com/aradhanaaaaaa">
   <img align="left" alt="aradhana's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -30,6 +30,8 @@
 - proficient in technologies including ReactJS, NextJs, Tailwind, TypeScript, Redux, and others
 - a little obsessed to make each piece of code pixel-perfect ✨
 - eager to learn and evolve 🌱
+
+
 
 
 - - -
