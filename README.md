@@ -25,9 +25,11 @@
 - an aspiring software developer
 - currently working in frontend team of [RevenueHero](https://revenuehero.io/)
 - proficient in technologies including ReactJS, NextJs, Tailwind, TypeScript, Redux, and others
-- a little obsessed to make each piece of code pixel-perfect
+- a little obsessed to make each piece of code pixel-perfect 🎬
 - eager to learn and evolve 🌱
 
+
+----------------------
 
 [![AradhanaChhabra's github stats](https://github-readme-stats.vercel.app/api?username=AradhanaChhabra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AradhanaChhabra/github-readme-stats)
 
