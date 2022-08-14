@@ -11,7 +11,7 @@
 <a href="https://github.com/AradhanaChhabra">
   <img align="left" alt="aradhana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/AjayKhalsa">
+<a href="https://t.me/aradhanaaaaa">
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://devfolio.co/@aradhanaa">
