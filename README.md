@@ -4,11 +4,10 @@
 
 ### **I am Aradhana** 👩🏽‍💻 
 
-- more than just an aspiring software developer ♥︎
+- more than just a software developer ♥︎
 - currently working in frontend team of [RevenueHero](https://revenuehero.io/)
-- proficient in technologies including ReactJS, NextJs, Tailwind, TypeScript, Redux, and others
+- ReactJS, NextJs, Tailwind, TypeScript, Redux, and others
 - a little obsessed with making each piece of code pixel-perfect ✨
-- looking forward to contribute to Open Source and be an active member of the community 
 - eager to learn and evolve 🌱
 
 
