@@ -12,6 +12,10 @@
 
 
 
+
+
+
+
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun or beyond consciousness. (P.S.- I'm quite active on twitter)</i>
 
